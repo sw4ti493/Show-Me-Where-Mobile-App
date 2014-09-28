@@ -1,4 +1,4 @@
-DocHackPolymer
+Show Me Where Mobile App
 ==============
 
 A polymer of an ionic app that I built with my team for the Health 2.0 SF Code-A-Thon.
